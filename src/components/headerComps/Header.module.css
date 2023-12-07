@@ -1,0 +1,15 @@
+.headerLogo{
+    display: flex;
+    align-items: center;
+    color: #F27C0F;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.headerList{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 100%;
+    color: #039 ;
+}

@@ -1,0 +1,15 @@
+.footerLogo{
+    width: 98px;
+    height: 30px;
+
+}
+.footerMenu{
+    margin-right: auto;
+}
+.footerMenuList{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 100%;
+
+}

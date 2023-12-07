@@ -1,0 +1,22 @@
+.headerBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.reactApp{
+    width: 50%;
+    margin: auto;
+}
+.footerContainer{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.50);
+    display: flex;
+    align-items: center;
+}
+.mainContainer{
+    padding-bottom: 150px;
+}
+a{
+    text-decoration: none;
+}
